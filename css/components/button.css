@@ -1,0 +1,12 @@
+.btn-medium {
+text-decoration: none;
+background-color: #029e74;
+color: white;
+padding: 15px 50px;
+border-radius: 40px;
+transition: .5s;
+}
+
+.btn-medium:hover {
+background-color: #017554;
+}
